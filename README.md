@@ -21,3 +21,15 @@ django-admin startproject blog_main .
 python manage.py runserver
 ```
 
+## 02. Creating a Superuser
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=476s]
+
+```bash
+python manage.py migrate
+python manage.py creatsuperuser
+# Username: admin
+# Email address: admin@mail.com
+# Password: changeme
+```
+
