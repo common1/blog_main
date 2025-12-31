@@ -33,3 +33,10 @@ python manage.py creatsuperuser
 # Password: changeme
 ```
 
+## 03. Implementing Template
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=568s]
+
+```bash
+```
+
