@@ -1,2 +1,23 @@
 # blog_main
+
 Tech With Rathan, Premium Django Project (Full Course) | Build a Complete Blogging System
+
+## See also
+
+```
+```
+
+## 01. Creating a Project
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=326s]
+
+```bash
+git clone https://github.com/common1/blog_main.git
+cd blog_main
+python -m venv env
+env\Scripts\activate
+pip install django
+django-admin startproject blog_main .
+python manage.py runserver
+```
+
