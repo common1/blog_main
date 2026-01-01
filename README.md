@@ -55,3 +55,12 @@ python manage.py creatsuperuser
 ```bash
 ```
 
+##  06. Category Model
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=1836s]
+
+```bash
+python manage.py startapp blogs
+
+```
+
