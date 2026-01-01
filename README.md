@@ -64,3 +64,10 @@ python manage.py startapp blogs
 
 ```
 
+## 07. Media Files Configuration
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=2344s]
+
+```bash
+```
+
