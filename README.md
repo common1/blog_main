@@ -40,3 +40,10 @@ python manage.py creatsuperuser
 ```bash
 ```
 
+## 04. Design Homepage & Configure Static Files
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=876s]
+
+```bash
+```
+
