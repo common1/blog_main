@@ -47,3 +47,11 @@ python manage.py creatsuperuser
 ```bash
 ```
 
+## 05. Set up Git with Gitignore
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=1460s]
+[https://www.toptal.com/developers/gitignore/]
+
+```bash
+```
+
