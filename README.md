@@ -99,3 +99,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 12. Add Demo Categories And Blog Posts
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=4086s]
+
+```bash
+```
+
