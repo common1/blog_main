@@ -92,3 +92,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 11. Git Push
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=4007s]
+
+```bash
+```
+
