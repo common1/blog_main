@@ -78,3 +78,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 09. Prepopulate Slugs
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=3306s]
+
+```bash
+```
+
