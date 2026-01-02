@@ -106,3 +106,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 13. Display Categories On The Homepage
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=4134s]
+
+```bash
+```
+
