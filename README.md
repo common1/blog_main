@@ -85,3 +85,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 10. Admin Table List Display
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=3454s]
+
+```bash
+```
+
