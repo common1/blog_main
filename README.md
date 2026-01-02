@@ -71,3 +71,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 08. Blog Model
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=2539s]
+
+```bash
+```
+
