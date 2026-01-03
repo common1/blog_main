@@ -113,3 +113,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 14. Display Featured Posts On The Homepage
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=4440s]
+
+```bash
+```
+
