@@ -120,3 +120,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 15. Display Recent Articles
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=5244s]
+
+```bash
+```
+
