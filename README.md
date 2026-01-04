@@ -127,3 +127,10 @@ python manage.py startapp blogs
 ```bash
 ```
 
+## 16. ForeignKey Relationships
+
+[https://www.youtube.com/watch?v=1-1ePcEDcqI&t=5788s]
+
+```bash
+```
+
